@@ -1,5 +1,5 @@
 # Philo
-Paper written in July 2017 for the course: "Philosophical issues of computer science" in Politecnco of Milan.
+Paper written in July 2017 during the course: "Philosophical issues of computer science" at Politecnico of Milan.
 
 
 ### Abstract:
