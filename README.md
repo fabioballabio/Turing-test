@@ -1,5 +1,5 @@
-# Philo
-Paper written in July 2017 during the course: "Philosophical issues of computer science" at Politecnico of Milan.
+# Structural issues of the Turing test
+Paper written in July 2017 during the course "Philosophical issues of computer science" at Politecnico of Milan.
 
 
 ### Abstract:
